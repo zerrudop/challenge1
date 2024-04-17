@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "Try and take it"
+date:   2024-04-12 19:14:11 -0400
+categories: jekyll update
+---
+The other day, I heard about some snowflakes tryna take my guns and violate my God-given American rights.
+
+I am sick of the woke mob oppressing me. This is worse than when Disney ruined my favorite mermaid princess movie.
+
+In response to all these blue haired betas, I decided to write a poem about how they can try as they might, but they'll never take my guns.
+
+<h2>Come and take it.</h2> <h3>A poem by Dale Wanger</h3>
+{% highlight ruby %}
+Come and take it. Yeah
+Try to take it with your soft hands
+Nice try, snowflake. That is all you are
+Yet it is I who melts at your touch
+So woke
+But it is I who is up at night
+{% endhighlight %}
+
+Up yours woke moralists! We'll see who cancels who!
